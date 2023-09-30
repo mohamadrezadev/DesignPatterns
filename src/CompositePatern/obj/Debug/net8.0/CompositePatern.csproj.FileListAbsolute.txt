@@ -1,0 +1,14 @@
+D:\DesignPatterns\DesignPatterns\CompositePatern\bin\Debug\net8.0\CompositePatern.exe
+D:\DesignPatterns\DesignPatterns\CompositePatern\bin\Debug\net8.0\CompositePatern.deps.json
+D:\DesignPatterns\DesignPatterns\CompositePatern\bin\Debug\net8.0\CompositePatern.runtimeconfig.json
+D:\DesignPatterns\DesignPatterns\CompositePatern\bin\Debug\net8.0\CompositePatern.dll
+D:\DesignPatterns\DesignPatterns\CompositePatern\bin\Debug\net8.0\CompositePatern.pdb
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\CompositePatern.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\CompositePatern.AssemblyInfoInputs.cache
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\CompositePatern.AssemblyInfo.cs
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\CompositePatern.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\CompositePatern.dll
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\refint\CompositePatern.dll
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\CompositePatern.pdb
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\CompositePatern.genruntimeconfig.cache
+D:\DesignPatterns\DesignPatterns\CompositePatern\obj\Debug\net8.0\ref\CompositePatern.dll

@@ -1,0 +1,14 @@
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\bin\Debug\net6.0\ProxyPattern.exe
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\bin\Debug\net6.0\ProxyPattern.deps.json
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\bin\Debug\net6.0\ProxyPattern.runtimeconfig.json
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\bin\Debug\net6.0\ProxyPattern.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\bin\Debug\net6.0\ProxyPattern.pdb
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ProxyPattern.AssemblyInfoInputs.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ProxyPattern.AssemblyInfo.cs
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ProxyPattern.csproj.CoreCompileInputs.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ProxyPattern.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\refint\ProxyPattern.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ProxyPattern.pdb
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ProxyPattern.genruntimeconfig.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\ProxyPattern\obj\Debug\net6.0\ref\ProxyPattern.dll

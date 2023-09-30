@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SampleAdapterNotification/1.0.0": {
+        "dependencies": {
+          "GmailService": "1.0.0.0"
+        },
+        "runtime": {
+          "SampleAdapterNotification.dll": {}
+        }
+      },
+      "GmailService/1.0.0.0": {
+        "runtime": {
+          "GmailService.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleAdapterNotification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GmailService/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
