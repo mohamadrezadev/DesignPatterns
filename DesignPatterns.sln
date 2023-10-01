@@ -55,6 +55,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuilderPattern", "BuilderPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{5A962CDA-A614-4F74-9105-0CE2F6A70C9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SterategyPattern", "src\SterategyPattern\SterategyPattern\SterategyPattern.csproj", "{C8ACCC09-4810-4189-81FF-D307A545C3B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{5A962CDA-A614-4F74-9105-0CE2F6A70C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A962CDA-A614-4F74-9105-0CE2F6A70C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A962CDA-A614-4F74-9105-0CE2F6A70C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ACCC09-4810-4189-81FF-D307A545C3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ACCC09-4810-4189-81FF-D307A545C3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ACCC09-4810-4189-81FF-D307A545C3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ACCC09-4810-4189-81FF-D307A545C3B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
