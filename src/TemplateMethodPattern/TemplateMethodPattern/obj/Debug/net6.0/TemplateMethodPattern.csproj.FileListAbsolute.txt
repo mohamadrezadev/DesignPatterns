@@ -1,0 +1,14 @@
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.exe
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.deps.json
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.runtimeconfig.json
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.pdb
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfo.cs
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\refint\TemplateMethodPattern.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.pdb
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.genruntimeconfig.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net6.0\ref\TemplateMethodPattern.dll
