@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "35X9J4lJJHV+DQA6jImXFrEW8YJqOz2KBS1gLu0FAzvv1AuIwOQjt8ijzzUwRedrHA8deMnIocp0h4epEOig1g==",
+  "dgSpecHash": "wLQtw8G0kyfLFfaQjAnlxKPCQ+rgXTB86iCk2gPfWQjSRY+7N+PEtEipD5yunyRJUIXscYPyyeuPLieyoYFf3w==",
   "success": true,
-  "projectFilePath": "D:\\Codes_Learning\\DesignPatterns\\DesignPatterns\\src\\SterategyPattern\\SterategyPattern\\SterategyPattern.csproj",
+  "projectFilePath": "D:\\Codes_Learning\\DesignPatterns\\DesignPatterns\\src\\SterategyPattern\\SterategyPattern\\StrategyPattrn.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

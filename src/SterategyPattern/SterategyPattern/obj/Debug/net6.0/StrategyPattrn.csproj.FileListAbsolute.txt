@@ -1,0 +1,15 @@
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\bin\Debug\net6.0\StrategyPattrn.exe
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\bin\Debug\net6.0\StrategyPattrn.deps.json
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\bin\Debug\net6.0\StrategyPattrn.runtimeconfig.json
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\bin\Debug\net6.0\StrategyPattrn.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\bin\Debug\net6.0\StrategyPattrn.pdb
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.AssemblyInfoInputs.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.AssemblyInfo.cs
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.csproj.CoreCompileInputs.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.sourcelink.json
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\refint\StrategyPattrn.dll
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.pdb
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\StrategyPattrn.genruntimeconfig.cache
+D:\Codes_Learning\DesignPatterns\DesignPatterns\src\SterategyPattern\SterategyPattern\obj\Debug\net6.0\ref\StrategyPattrn.dll

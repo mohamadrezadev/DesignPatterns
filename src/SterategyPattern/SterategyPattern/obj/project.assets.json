@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes_Learning\\DesignPatterns\\DesignPatterns\\src\\SterategyPattern\\SterategyPattern\\SterategyPattern.csproj",
-      "projectName": "SterategyPattern",
-      "projectPath": "D:\\Codes_Learning\\DesignPatterns\\DesignPatterns\\src\\SterategyPattern\\SterategyPattern\\SterategyPattern.csproj",
+      "projectUniqueName": "D:\\Codes_Learning\\DesignPatterns\\DesignPatterns\\src\\SterategyPattern\\SterategyPattern\\StrategyPattrn.csproj",
+      "projectName": "StrategyPattrn",
+      "projectPath": "D:\\Codes_Learning\\DesignPatterns\\DesignPatterns\\src\\SterategyPattern\\SterategyPattern\\StrategyPattrn.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
       "outputPath": "D:\\Codes_Learning\\DesignPatterns\\DesignPatterns\\src\\SterategyPattern\\SterategyPattern\\obj\\",
       "projectStyle": "PackageReference",
@@ -40,6 +40,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -61,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 ﻿public class Context
 {
-    private Sterategy strategy;
+    private Strategy strategy;
 
-    public Context(Sterategy sterategy)
+    public Context(Strategy sterategy)
     {
         this.strategy = sterategy;
     }
